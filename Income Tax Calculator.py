@@ -1,5 +1,5 @@
 # based on the 2020 tax rates for someone filing single
-# https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets800
+# https://www.nerdwallet.com/article/taxes/federal-income-tax-brackets
 def tax():
     rates = [.10, .12, .22, .24, .32, .35, .37]
     income_cutoff = [9875, 40125, 85525, 163300, 207350, 518400]
